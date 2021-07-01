@@ -1,0 +1,2 @@
+rootProject.name = "ResourcesWe"
+include ':app'

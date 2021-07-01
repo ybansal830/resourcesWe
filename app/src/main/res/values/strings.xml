@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ResourcesWe</string>
+    <string name="enter_the_name_hint">Enter the name</string>
+    <string name="enter_the_id_hint">Enter the id</string>
+    <string name="enter_the_dob_hint">Enter the dob</string>
+    <string name="enter_the_bloodGroup_hint">Enter the blood group</string>
+    <string name="enter_the_phone_hint">Enter the phone number</string>
+    <string name="enter_the_state_hint">Enter the state</string>
+    <string name="enter_the_district_hint">Enter the district</string>
+    <string name="enter_the_address_hint">Enter the address</string>
+</resources>
